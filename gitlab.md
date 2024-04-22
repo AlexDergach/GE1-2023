@@ -5,7 +5,7 @@
 This lab is all about practicing using git and github. This will work best if you for a group of 2, so that you can get experience collaborating with someone on a project through git. Firstly, make sure you know what the following bash commands do. Fire up the bash shell and try them out. There are lots more, but these are the most common ones I use. Google them and try them out!
 
 ```
-pwd
+pwdtest
 ls
 ls -a
 cd
